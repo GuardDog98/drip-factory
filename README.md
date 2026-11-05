@@ -30,21 +30,7 @@ Built from scratch in **Kotlin** with a custom **OpenGL ES 2.0** renderer (no ga
 Get the latest APK from the [Releases](../../releases) page.
 
 If Android blocks the install, allow installing from your browser or file manager when prompted. Debug builds are signed with a temporary key, so uninstall an older build before installing a new one.
-
-## Build it yourself
-
-The easiest way needs no PC: push the project to GitHub and let **GitHub Actions** build the APK.
-
-1. Open the **Actions** tab and run **Build APK** (or push a commit).
-2. When the run turns green, open it and download the `drip-factory-debug` artifact.
-3. Unzip it to get the `.apk`.
-
-Or locally with Gradle 7.6.4 and JDK 17:
-
-    gradle assembleDebug
-
-The APK is created in `build/outputs/apk/debug/`.
-
+ 
 ## Project structure
 
 | Path | Purpose |
@@ -61,4 +47,3 @@ Inspired by the idle melting and filling genre. This is an independent project a
 
 ## License
 
-Choose a license (for example MIT) and add it to the repo.
