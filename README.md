@@ -1,6 +1,11 @@
 # drip-factory
 Idle melting game for Android: melt ice, chocolate and honey, fill jars, merge burners and upgrade your factory. Native Kotlin + OpenGL ES 3D, no engine.
 # Drip Factory
+[
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+](LICENSE)
 
 An idle "satisfying" game for Android. Melt blocks of ice, chocolate and honey on a hot plate, catch the drips in glass jars, sell them on a conveyor belt and upgrade your factory.
 
@@ -46,4 +51,10 @@ If Android blocks the install, allow installing from your browser or file manage
 Inspired by the idle melting and filling genre. This is an independent project and is not affiliated with any commercial game or publisher.
 
 ## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 GuardDog98
+
+You are free to use, copy, modify and distribute this software, including for commercial purposes, as long as the copyright notice and the license text are kept. The software is provided "as is", without warranty of any kind.
 
