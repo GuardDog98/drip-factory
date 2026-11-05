@@ -31,7 +31,7 @@ Built from scratch in **Kotlin** with a custom **OpenGL ES 2.0** renderer (no ga
 
 Get the latest APK from the [Releases](../../releases) page.
 
-If Android blocks the install, allow installing from your browser or file manager when prompted. Debug builds are signed with a temporary key, so uninstall an older build before installing a new one.
+If Android blocks the install, allow installing from your browser or file manager when prompted. Debug builds are signed with a temporary key, so uninstall an older build before installing a new one. 
  
 ## Project structure
 
